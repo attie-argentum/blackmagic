@@ -35,13 +35,6 @@ SRC =              \
 	jtag_devs.c    \
 	jtag_scan.c    \
 	lmi.c          \
-	lpc_common.c   \
-	lpc11xx.c      \
-	lpc17xx.c      \
-	lpc15xx.c      \
-	lpc43xx.c      \
-	lpc546xx.c     \
-	kinetis.c      \
 	main.c         \
 	morse.c        \
 	msp432.c       \
@@ -55,14 +48,6 @@ SRC =              \
 	samd.c         \
 	samx5x.c       \
 	sfdp.c         \
-	stm32f1.c      \
-	ch32f1.c       \
-	stm32f4.c      \
-	stm32h7.c      \
-	stm32l0.c      \
-	stm32l4.c      \
-	stm32g0.c      \
-	renesas.c      \
 	target.c       \
 	target_flash.c \
 	target_probe.c
